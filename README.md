@@ -1,0 +1,1 @@
+git@github.com:VBViks/slozhno-sosredotochitsya.git
