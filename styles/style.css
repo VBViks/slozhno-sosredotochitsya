@@ -74,7 +74,6 @@
   font-weight: 700;
   text-shadow: 4px 4px 0 var(--shadow-color, #FF0070);
   line-height: 95.7px;
-  
 }
 
 .title-decor {
@@ -220,12 +219,10 @@
 }
 
 .link:hover {
-  text-decoration: underline;
   text-underline-offset: 2px;
   outline: none;
   text-decoration: none;
-  border-bottom: 1px solid var(--main-text-color, #F1B2CE);
-  
+  border-bottom: 1px solid var(--main-text-color, #F1B2CE);  
 }
 
 @media (min-width: 768px) {
@@ -442,5 +439,5 @@
   .image_block {
     max-width: 984px;
     max-height: 1091px;
-  }  
+  }
 }
